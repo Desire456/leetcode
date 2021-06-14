@@ -1,4 +1,4 @@
-package com.company.string;
+package com.company.string.longestpalindrome;
 
 import java.util.Scanner;
 

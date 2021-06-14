@@ -1,4 +1,4 @@
-package com.company.string;
+package com.company.string.longestpalindrome;
 
 public class LongestPalindrome {
     public String longestPalindrome(String s) {
