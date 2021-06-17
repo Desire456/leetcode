@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        RemoveDuplicates removeDuplicates = new RemoveDuplicates();
+        Solution solution = new Solution();
         Scanner scanner = new Scanner(System.in);
         List<Integer> integers = Arrays.stream(scanner.nextLine().split(" "))
                 .map(Integer::parseInt)
@@ -17,6 +17,6 @@ public class Main {
         for(int i = 0; i < array.length; ++i) {
             array[i] = integers.get(i);
         }
-        System.out.println(removeDuplicates.removeDuplicates(array));
+        System.out.println(solution.removeDuplicates(array));
     }
 }

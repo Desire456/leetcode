@@ -1,6 +1,6 @@
 package com.company.string.longestpalindrome;
 
-public class LongestPalindrome {
+public class Solution {
     public String longestPalindrome(String s) {
         int startPos = 0;
         int endPos = 0;

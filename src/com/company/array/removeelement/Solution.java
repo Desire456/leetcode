@@ -1,6 +1,6 @@
 package com.company.array.removeelement;
 
-public class RemoveElement {
+public class Solution {
     public int removeElement(int[] nums, int val) {
         int i = 0;
         for (int j = 0; j < nums.length; j++) {

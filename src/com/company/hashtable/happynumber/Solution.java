@@ -3,7 +3,7 @@ package com.company.hashtable.happynumber;
 import java.util.HashSet;
 import java.util.Set;
 
-public class HappyNumber {
+public class Solution {
     public boolean isHappy(int n) {
         int sum = 0;
         Set<Integer> sums = new HashSet<>();

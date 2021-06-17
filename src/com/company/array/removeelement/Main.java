@@ -18,8 +18,8 @@ public class Main {
         }
         int val = integers.get(integers.size() - 1);
 
-        RemoveElement removeElement = new RemoveElement();
-        System.out.println(removeElement.removeElement(array, val));
+        Solution solution = new Solution();
+        System.out.println(solution.removeElement(array, val));
         System.out.println(Arrays.toString(array));
     }
 }
