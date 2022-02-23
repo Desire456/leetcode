@@ -1,4 +1,4 @@
-package com.company.other.reverseinteger;
+package com.company.reverseinteger;
 
 public class Solution {
     public int reverse(int x) {

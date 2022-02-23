@@ -1,4 +1,4 @@
-package com.company.array.removeduplicates;
+package com.company.removeduplicates;
 
 import java.util.Arrays;
 import java.util.List;

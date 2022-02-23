@@ -1,4 +1,4 @@
-package com.company.hashtable.happynumber;
+package com.company.happynumber;
 
 import java.util.HashSet;
 import java.util.Set;

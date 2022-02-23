@@ -1,4 +1,4 @@
-package com.company.array.removeduplicates;
+package com.company.removeduplicates;
 
 public class Solution {
     public int removeDuplicates(int[] nums) {
