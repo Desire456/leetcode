@@ -2,6 +2,8 @@ package org.example.array.removeduplicates;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class SolutionTest {
 
     @Test
@@ -12,7 +14,7 @@ public class SolutionTest {
         int k = new Solution().removeDuplicates(nums);
         assert k == expectedNums.length;
         for (int i = 0; i < k; i++) {
-            assert nums[i] == expectedNums[i];
+            assertEquals(expectedNums[i], nums[i]);
         }
     }
 }
