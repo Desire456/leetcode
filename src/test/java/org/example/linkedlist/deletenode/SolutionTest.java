@@ -1,5 +1,6 @@
 package org.example.linkedlist.deletenode;
 
+import org.example.linkedlist.ListNode;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
