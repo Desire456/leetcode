@@ -1,4 +1,4 @@
-package org.example.climbstairs;
+package org.example.dynamicprogramming.climbstairs;
 
 import org.example.dynamicprogramming.climbingstairs.Solution;
 import org.junit.jupiter.api.Test;
