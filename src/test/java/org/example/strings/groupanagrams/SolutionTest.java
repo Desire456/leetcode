@@ -1,4 +1,4 @@
-package org.example.array.groupanagrams;
+package org.example.strings.groupanagrams;
 
 import org.apache.commons.lang3.tuple.Pair;
 import org.junit.jupiter.params.ParameterizedTest;
